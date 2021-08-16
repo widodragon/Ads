@@ -1,8 +1,0 @@
-{
-    cuteWallpaper : {
-        isEnabled : true,
-        banner: "",
-        interestitial: "",
-        reward: ""
-    }
-}
