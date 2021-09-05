@@ -6,16 +6,6 @@
   "mode_no_ads" : true,
   "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
   
-  // Mode Iklan
-  // 
-  //  mode pengaturan iklan
-  //  Mode ADMOB       Admob backup Unity Backup Startapp
-  //  Mode FAN         FAN  backup Unity Backup Startapp
-  //  Mode APPODEAL    Appodeal  backup Unity Backup Startapp
-  //  Mode UNITY       Unity backup Startapp
-  //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
-  //  Iklan native hanya bisa admob fan appodel
-  
   "pengaturan_iklan_banner" : "ADMOB",
   "pengaturan_iklan_inter" : "ADMOB",
   "pengaturan_iklan_native" : "ADMOB",
